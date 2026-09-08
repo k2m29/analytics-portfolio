@@ -17,7 +17,7 @@
 - **Product & Marketing Analytics** — 세그멘테이션 · 코호트 · 리텐션 · 프로모션 ROI
 - **Dashboard Development** — 셀프서브 Tableau BI 구축·운영
 - **Data Governance** — 테이블 사전 · 표준 지표 쿼리 · SQL Dictionary
-- **Workflow Automation** — 반복 산출물 생성 4시간 → 10분 (Python + AI)
+- **Workflow Automation** — 대상 선정 4시간 → 10분, 운영 산출물 생성 2시간 → 10분 (Python + AI)
 
 📁 **선별 포트폴리오**: [tinyurl.com/kyungmin-ba](https://tinyurl.com/kyungmin-ba)
 💼 **LinkedIn**: [linkedin.com/in/kkyungmin1](https://linkedin.com/in/kkyungmin1)
@@ -52,7 +52,7 @@
 | 🎯 프로모션 · 이벤트 분석 | 프로모션 비용 구조 해부(**자연실험으로 할인율·타겟 효과 분리**), 프로모션 사후분석 정례화, 신규 게임 유입 효과 분석(4개 타이틀 교차 검증) |
 | 👥 세그멘테이션 · 코호트 | 크레딧 정책 변경 1년 코호트 추적, 결제액×등록여부 Tier 세그먼트, 신규/복귀/기존 유입 분해 |
 | 🏆 랭킹 · 스코어링 · 분류체계 | 시간감쇠 신작 랭킹(프로덕션 운영 중), 2축 패싯 분류체계(1,200+ 상품 라벨링) |
-| ⚙️ 파이프라인 · 자동화 | 프로모션 대상 선정 자동화, 업무 오케스트레이션(**4시간 → 10분**), BI 연동 정례 리포팅 |
+| ⚙️ 파이프라인 · 자동화 | 프로모션 대상 선정 자동화(**4시간 → 10분**), 운영 산출물 오케스트레이션(**2시간 → 10분**), BI 연동 정례 리포팅 |
 | 📊 대시보드 · 거버넌스 · KM | GMV Breakdown 대시보드, SQL Dictionary(25개 테이블·562개 컬럼), **마케팅 이벤트 평가 표준·미션-지표 추적 체계**, 파트너 온보딩 Knowledge Hub |
 
 ➡️ [전체 목록 보기 → PROJECTS.md](PROJECTS.md)
