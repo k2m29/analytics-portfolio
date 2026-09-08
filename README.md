@@ -84,7 +84,7 @@
 
 ## 📎 그 외
 
-- 🎪 **[Conference Notes](conferences/README.md)** — 컨퍼런스 참관기 8건 (2024.07~2026.06)
+- 🎪 **[Conference Notes](conferences/README.md)** — 컨퍼런스 참관기 10건 (2024.07~2026.08)
 - 🍳 실무 재구현 케이스 스터디와 분석 레시피 노트북은 별도 저장소(**analytics-cookbook**)로 준비 중
 
 ---
